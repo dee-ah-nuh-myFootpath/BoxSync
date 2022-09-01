@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "myfootpath-database",
+  "private_key_id": "ef917cb06b4c9b35e9c34f8e476dbab532069fcc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDipSSjagpT5DjW\nBAJEHdmkbiMSEPBiAQB+jByIyLDtAnB0R6BaI8KLzNAs+KWii2831a5hvSxvPia/\nELGpjUJ+PCyZF4T52XKuWPAdzKaCgLamRX4P0Iu3Yc5Io5QKSgb4mrtJWexEp+4M\nG4Q+TlaEMWc89phn3sjskuYJ1jNcXOOLHDmEd29SIFAwX6HBQ4NSXgK6piClWSpt\nYbQ6ZreSlyEPODikFQjU11QmiNrWq7ijOSSRcdTxBNyigA8uBx63lXPCcIEtgZBv\nCWdsxi/1ak1vzhJ2r2UGuo2+Hx6lvDVbnSU3UiCfh0uYi85LJNO9lLNvIdWP/dHW\nIanGzpiVAgMBAAECggEAEqb3pHE6J1xNZyOOUi/ItRURUs/NEKu3cDK0uHcXxHGi\ncpdgdXqi7KFu8nyGGSHzhbtSrh2E9iS9yJSlomgLNFtcaj76xRslqn6MSE+K1ouk\nPHvUm5WUogNtGCJKMSyVdUk6p5c8cAwH9bwf/oaw7REpx2Ud9tJpY7rVLrMPqAaf\nS0pjRVCj3TWFYV45/+/Aol/Ts8yva2Nv1Cnf+aOSZyztO90VXd5F8CWxNF+juUVi\nmv5I7bfJ+gwKIibrXPch7ilyaUJIzLnM4rFs34PqhJBAV9/T44/Sl8KK+9UAfaKw\nGVGuVroHfQsmN77bFqxdd6UcpfZGarNF/o581xp6QwKBgQD9DJed4fMohPMIe+7M\nVarPCNYTcE0+th16y4ut34u1kfrQAVJr+UCAv9eiw4bS6D3Awbz7WGK/gnuGIebC\nP21u6UrZNpZAv+eefwYWz9f+A1ZvfPZFLdXgiheEdAdhMzP8pvIuamOgKuAavZAn\nGFR4Njmm4g4bcHOhBp5s/J2gywKBgQDlSbqSfQAOOxw2XKBUBjNE59nOszOi39Z1\nJq37Xb+kfEmdLHMjUOz8KQvf5hzFyzSpJJTSk4QZKmBqNvqUEChw+PfGTIB4PvZy\nu57+1Zz1PUvO8Z/gTKMFWWNTynwo4HmpmY1i26DQ225W82BVUh50KY/c9uEQfHFP\nXLJf6MRgHwKBgFEQrqWqk95AMSdfpJGbRBwNJZ+Wk3hqmSkUegvamIQzXtkyAziJ\n4gsc6jS/VLrOIbJVnngayY+2emHvDGDgNuuYGx1Y6muVztqssMOwE+7RHOicbLye\nwWyscHpDPXX7FEV1KhKKjJ3r/l0yqzKLDcxw+qkmtARAUxqb5zbc+pZfAoGAcp8K\n79QhRPvzvJFNbPO0iYvF7HjVJWT0lpgBfZl+BkJDopjn7g20itISJ5mnZJGS/8NT\nynkIHnR6wl49oer57I/pfW4dAv+mv/BfKVGsJ0S/MvLDU6O8Ex5+cxLUQrME3u3u\nKi9VE1O+syTzUXO92aA1VObt2An9swjJ+vwnv00CgYBb//m7o2W413C/ob0OJznX\nusmBaxnZbIxcb+PDvypk4dZUP6Rs5lRKFeXs8ypxQ/UZNqMVAH5xgkwSObk1JGae\nFK2Tva43nNw/4rCoD1BTexLjf/zk2qUFIgZWrPfqkRqG+57CWwdcjJPiuwwvCe8w\n4QjzX/zYdLDUAanKstPpqA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "python-connector@myfootpath-database.iam.gserviceaccount.com",
+  "client_id": "112202987501944483821",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/python-connector%40myfootpath-database.iam.gserviceaccount.com"
+}
